@@ -6,6 +6,16 @@ html {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 
+
+  }
+  Header{
+	color: white;
+	background-color: black;
+	opacity: .8;
+	text-align: center;
+
+
+	
   }
 .bracket {
 	display: grid;
