@@ -6,6 +6,13 @@ background-image: url(images/crosswater.jpg);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+  a:link {
+    color: white;
+  }
+  a:visited {
+    color: white;
+  }
   
   Header{
 	color: white;
