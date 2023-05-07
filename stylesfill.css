@@ -306,7 +306,9 @@ ul {
 .matchup-58 {
 	grid-column: 4 / span 1;
 	grid-row: 20 / span 4;
+	z-index: 0;
 }
+
 
 .matchup-59,
 .matchup-60 {
